@@ -2,7 +2,7 @@
 
 I am getting comfortable with new projects and learning new solutions to problems. So far Javascript is my favorite. When I'm not coding I am an intern at PwC.
 
-You can find me dancing :dancer: or chilling inside with a glass of wine :wine_glass:
+You can often find me dancing :dancer: or chilling inside with a glass of wine :wine_glass:
 
 Skills
 
