@@ -8,7 +8,9 @@ Skills
 
     🔲 Experienced with Design principles 
     🔲 Knowledgeable in web development using HTML and CSS
-    🔲 Familiar with and JavaScript and REST API
+    🔲 Familiar with JavaScript and REST API
+    🔲 Familiar with React
+    
 
 Projects
 
@@ -23,6 +25,10 @@ Projects
     🎮 Glitch Intel: 
     A blog site sbout E-sports news. 
     Developed with HTML, CSS, wp API, and vanilla Javascript
+
+     🎮 WideSelection: 
+    An e-commerce website. 
+    Developed with rest-API, Chakra UI and React
 
 Contact
 
