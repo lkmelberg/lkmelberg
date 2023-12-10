@@ -35,19 +35,19 @@ You can often find me dancing :dancer: or chilling inside with a glass of wine :
 #### 🍃 LeafTrade: 
 - The site is an auction site.
 - Developeed with Bootstrap and javascript
-[Repo](https://github.com/lkmelberg/noroff_semester_project_2)
+- [Repo](https://github.com/lkmelberg/noroff_semester_project_2)
     
     
 #### 🛍️ WideSelection - javascript frameworks course assignment: 
 - An e-commerce website. 
 - Developed with rest-API, Chakra UI and React
-[Repo](https://github.com/lkmelberg/noroff_jsFrameworks_CA)
+- [Repo](https://github.com/lkmelberg/noroff_jsFrameworks_CA)
 
     
 #### 🏖️ Holidaze: 
 - The site is a accomodation booking site. 
 - Created with React, Vite, and Chakra UI.
-[Repo](https://github.com/lkmelberg/noroff_examProject2)
+- [Repo](https://github.com/lkmelberg/noroff_examProject2)
 
 
 Contact
